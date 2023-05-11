@@ -1,11 +1,11 @@
 {
 	"users": [
 		{
-			"email": "usuario1@stikets.es",
+			"user": "usuario1@stikets.es",
 			"password": "123456"
 		},
 		{
-			"email": "usuario2@stikets.es",
+			"user": "usuario2@stikets.es",
 			"password": "654321"
 		}
 	]
